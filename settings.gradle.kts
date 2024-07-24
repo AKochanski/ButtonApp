@@ -1,4 +1,3 @@
-// settings.gradle.kts
 pluginManagement {
     repositories {
         google()
@@ -14,3 +13,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
+rootProject.name = "ButtonApp"
+include(":app")

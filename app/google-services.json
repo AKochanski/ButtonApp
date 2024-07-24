@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902583607678",
+    "project_id": "buttonapp-d64c5",
+    "storage_bucket": "buttonapp-d64c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902583607678:android:7d12f032607ddcd9c0532f",
+        "android_client_info": {
+          "package_name": "com.example.buttonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnsBg3wRhfd3lyFZMYYXn_cBw_QLLJCxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
